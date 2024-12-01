@@ -1,0 +1,11 @@
+spot-the-difference/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── config.json
+├── assets/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── sound.mp3 (optional for sound effects)
+├── README.md
